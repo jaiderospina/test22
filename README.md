@@ -71,8 +71,3 @@
 
 Al realizar un análisis FODA detallado y cruzado, la empresa de telecomunicaciones puede desarrollar estrategias específicas para mejorar su postura de ciberseguridad. Al implementar estas estrategias, la empresa estará mejor preparada para enfrentar amenazas cibernéticas, cumplir con regulaciones, y asegurar la protección continua de su infraestructura tecnológica.
 
-### Referencias
-
-1. **ISO/IEC 27001:2013**. Information technology — Security techniques — Information security management systems — Requirements. International Organization for Standardization, 2013.
-2. **NIST Special Publication 800-53**. Security and Privacy Controls for Federal Information Systems and Organizations. National Institute of Standards and Technology, 2020.
-3. **ENISA**. Threat Landscape 2020. European Union Agency for Cybersecurity, 2020.
